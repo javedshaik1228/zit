@@ -1,0 +1,2 @@
+# zit
+VCS like git
